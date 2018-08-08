@@ -1,0 +1,15 @@
+.seat {
+  width: 24px;
+  height: 24px;
+  background-image: url(../assets/seat.svg);
+  background-size: contain;
+  flex: 0 0 auto;
+}
+
+.seatSelected {
+  width: 24px;
+  height: 24px;
+  background-image: url(../assets/seat_selected.svg);
+  background-size: contain;
+  flex: 0 0 auto;
+}
